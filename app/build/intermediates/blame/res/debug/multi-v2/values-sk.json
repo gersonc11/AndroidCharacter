@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\Fragments_training\\Android_Me-TFragments.01-StartingCode\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sk\\values-sk.xml",
+            "outputFile": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\AndroidCharacter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sk\\values-sk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Gerson Cruz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\91375f16fdeb36459a2683178a96c9d3\\res\\values-sk\\values-sk.xml",

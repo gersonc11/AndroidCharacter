@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\Fragments_training\\Android_Me-TFragments.01-StartingCode\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
+            "outputFile": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\AndroidCharacter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Gerson Cruz\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\3a649505789cd1bbce2b219f39d27c81\\res\\values-eu\\values-eu.xml",

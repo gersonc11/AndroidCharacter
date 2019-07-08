@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\Fragments_training\\Android_Me-TFragments.01-StartingCode\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\AndroidCharacter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\Fragments_training\\Android_Me-TFragments.01-StartingCode\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\AndroidCharacter\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

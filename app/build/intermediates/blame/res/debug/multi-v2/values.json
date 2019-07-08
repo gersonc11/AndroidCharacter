@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\Fragments_training\\Android_Me-TFragments.01-StartingCode\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\AndroidCharacter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Gerson Cruz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\91375f16fdeb36459a2683178a96c9d3\\res\\values\\values.xml",
@@ -23,6 +23,57 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\AndroidCharacter\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "153,154,155",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "7704,7750,7797",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "7745,7792,7843"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\AndroidCharacter\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,149",
+                        "endColumns": "57,55",
+                        "endOffsets": "143,200"
+                    },
+                    "to": {
+                        "startLines": "276,277",
+                        "startColumns": "4,4",
+                        "startOffsets": "15945,16003",
+                        "endColumns": "57,55",
+                        "endOffsets": "15998,16054"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\AndroidCharacter\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,127",
+                        "endColumns": "47,69",
+                        "endOffsets": "60,192"
+                    },
+                    "to": {
+                        "startLines": "384,385",
+                        "startColumns": "4,4",
+                        "startOffsets": "22948,22996",
+                        "endColumns": "47,69",
+                        "endOffsets": "22991,23061"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Gerson Cruz\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\dece8cba0c9ffb32e79e120a6804a03e\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,5,6,7,8,10,11,12,13,14",
@@ -37,23 +88,6 @@
                         "startOffsets": "9333,18309,18362,18415,18468,111393,111569,111691,111953,112148",
                         "endColumns": "88,52,52,52,52,65,121,60,65,66",
                         "endOffsets": "9417,18357,18410,18463,18516,111454,111686,111747,112014,112210"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\Fragments_training\\Android_Me-TFragments.01-StartingCode\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "90,149",
-                        "endColumns": "57,55",
-                        "endOffsets": "143,200"
-                    },
-                    "to": {
-                        "startLines": "276,277",
-                        "startColumns": "4,4",
-                        "startOffsets": "15945,16003",
-                        "endColumns": "57,55",
-                        "endOffsets": "15998,16054"
                     }
                 },
                 {
@@ -95,20 +129,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\Fragments_training\\Android_Me-TFragments.01-StartingCode\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\AndroidCharacter\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "1,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "17,127",
-                        "endColumns": "47,69",
-                        "endOffsets": "60,192"
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "376"
                     },
                     "to": {
-                        "startLines": "384,385",
-                        "startColumns": "4,4",
-                        "startOffsets": "22948,22996",
-                        "endColumns": "47,69",
-                        "endOffsets": "22991,23061"
+                        "startLines": "393",
+                        "startColumns": "4",
+                        "startOffsets": "23632",
+                        "endLines": "398",
+                        "endColumns": "12",
+                        "endOffsets": "23946"
                     }
                 },
                 {
@@ -128,42 +164,6 @@
                         "endLines": "178,179,278,279,280,281,282,283,284,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,321,322,328,329,333,334,335,336,337,338,344,387,1708,1712,1714,1720,1722,1860,1861,2532,2721,2753,2790,2797",
                         "endColumns": "68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
                         "endOffsets": "9265,9328,16124,16192,16264,16334,16395,16469,16542,17387,17448,17510,17574,17636,17697,17765,17865,17925,17991,18064,18133,18190,18242,18304,19041,19117,19391,19426,19618,19679,19736,19770,19805,19840,20185,23185,111187,111388,111564,111948,112143,123108,123175,159285,176407,178472,180232,180609"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\Fragments_training\\Android_Me-TFragments.01-StartingCode\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "376"
-                    },
-                    "to": {
-                        "startLines": "393",
-                        "startColumns": "4",
-                        "startOffsets": "23632",
-                        "endLines": "398",
-                        "endColumns": "12",
-                        "endOffsets": "23946"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Gerson Cruz\\AndroidStudioProjects\\Fragments_training\\Android_Me-TFragments.01-StartingCode\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "157,57,105",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "198,99,151"
-                    },
-                    "to": {
-                        "startLines": "153,154,155",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "7704,7750,7797",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "7745,7792,7843"
                     }
                 }
             ]
